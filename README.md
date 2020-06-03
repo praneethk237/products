@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Restcall.js is used to make an api call. This component basically makes a call to the localhost:8080 where our spring boot web application will be deployed.
+Please do npm run once the spring boot application is deployed.
+
 ## Available Scripts
 
 In the project directory, you can run:
